@@ -1,5 +1,3 @@
-package 第二次上机;
-
 public class biao99 {
 
 	public static void main(String[] args) 

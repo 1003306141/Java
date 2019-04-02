@@ -1,4 +1,3 @@
-package 第二次上机;
 import javax.swing.*;
 
 /*
